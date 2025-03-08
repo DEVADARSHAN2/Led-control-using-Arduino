@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+### Name:DEVADARSHAN A S
+### REG NO:212222110007
+
+# EX 1-Led Control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +61,21 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2025-03-08 120418](https://github.com/user-attachments/assets/cac9d89e-2e67-4bb5-bc7e-c0c9d6b61451)
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/7691c4cd-70c7-472b-be3c-5b83c00fbba0)
+
 
 ## OUTPUT
+## LED OFF:
+![Screenshot 2025-03-08 120318](https://github.com/user-attachments/assets/cafe8368-7989-4324-9e69-abc6399af90e)
+
+## LED ON:
+
+![Screenshot 2025-03-08 120325](https://github.com/user-attachments/assets/94657654-3831-4bac-b914-2849dbeabcdd)
+
 
 ## RESULT
+ Thus Designed and Implemented a system for LED control using an Arduino microcontroller and a push button.
+
