@@ -1,7 +1,7 @@
 ### Name:DEVADARSHAN A S
 ### REG NO:212222110007
 
-# EX 1-Led Control using Arduino
+# EX 1 Led Control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
